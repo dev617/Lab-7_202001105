@@ -682,9 +682,9 @@ Expected output: Invalid
 > 
 > +-----------+
 > 
-1. 
+2. 
 
-> a. Statement Coverage
+> **a. Statement Coverage**
 > 
 > 
 > Test 1: p = {new Point(0, 0), new Point(1, 1)}
